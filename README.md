@@ -249,6 +249,3 @@ void loop() {
   }
   delay(100);
 }
-  // Repeat for Ammeter, Ohmmeter, and Diode/Continuity as in previous implementation
-  delay(100);
-}
