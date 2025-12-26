@@ -1,7 +1,7 @@
 
   
 
-# UART‑Based Serial Data Transmitter and Receiver (VHDL) — ECE242 Project
+# UART‑Based Serial Data Transmitter and Receiver (VHDL)
 
   
 
